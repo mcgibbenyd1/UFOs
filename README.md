@@ -11,7 +11,7 @@ The Filter Search fields allow for inputs in each of the fields (Date, City, Sta
 - In the image below the table is being filtered be certain criteria with the table dynamically displaying it on the right
 
 <p align="center">  
-<img src="https://github.com/mcgibbenyd1/surfs_up/blob/main/June_temps.png" width="80%"/>
+<img src="https://github.com/mcgibbenyd1/UFOs/blob/main/static/images/UFOs%20site%20filtered.png" width="95%"/>
 </p>
 
 ## Summary:
